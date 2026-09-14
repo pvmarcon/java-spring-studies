@@ -1,0 +1,16 @@
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Maria Silva', '12345678901', 6500, '1994-07-20', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('João Pereira', '23456789012', 4200.50, '1988-03-15', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Ana Costa', '34567890123', 8200, '1979-11-02', 3);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Lucas Oliveira', '45678901234', 3100, '1996-05-27', 0);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Beatriz Ramos', '56789012345', 5400.75, '1992-12-09', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Pedro Alves', '67890123456', 15000, '1975-01-30', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Carla Mendes', '78901234567', 7200, '1985-08-21', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Rafael Souza', '89012345678', 2700, '1999-09-10', 0);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Fernanda Lima', '90123456789', 9800, '1983-06-04', 4);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Tiago Rocha', '01234567890', 4300.25, '1990-02-18', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Juliana Freitas', '11223344556', 6600, '1991-04-29', 0);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Marcos Pinto', '22334455667', 3800, '1987-10-12', 3);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Paula Nunes', '33445566778', 12500, '1978-07-07', 2);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Eduardo Barros', '44556677889', 2900, '2000-01-15', 0);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Sofia Cardoso', '55667788990', 8400.50, '1984-03-03', 1);
+INSERT INTO clients(name, cpf, income, birth_date, children) VALUES ('Bruno Castro', '66778899001', 5100, '1993-11-19', 2);
